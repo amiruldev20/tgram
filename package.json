@@ -18,7 +18,7 @@
         "contribs": "all-contributors"
     },
     "dependencies": {
-        "@tgram/types": "latest",
+        "@tgram/types": "github:amiruldev20/tgram-types",
         "abort-controller": "latest",
         "debug": "latest",
         "node-fetch": "latest"
